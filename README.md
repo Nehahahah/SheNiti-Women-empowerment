@@ -74,7 +74,7 @@ Currently running on `localhost:8000`. Deployment options on free hosting servic
 
 ## 👩‍💻 About Me
 
-I'm **Neha Pal**, a Computer Science & Engineering student at **VIT Bhopal University** (2020–2026), currently holding a **CGPA of 9.13**. I enjoy solving real-world problems with full-stack web development and I’m actively involved in technical clubs, open-source contributions, and social impact projects.
+I'm **Neha Pal**, a Computer Science & Engineering student at **VIT Bhopal University** (2020–2026). I enjoy solving real-world problems with full-stack web development and I’m actively involved in technical clubs, open-source contributions, and social impact projects.
 
 - 📞 +91 6359091146  
 - 📫 11a.neha.pal@gmail.com  
