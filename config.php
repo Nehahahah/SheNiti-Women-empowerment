@@ -1,0 +1,8 @@
+<?php
+
+define('BASEURL', '/women-empowerment-master/');
+
+	define('CART_COOKIE', 'Sum123Am1996women');
+	define('CART_COOKIE_EXPIRE',time() + (86400 *30));
+	define('TAXRATE', 0.18);
+?>
