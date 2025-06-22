@@ -60,12 +60,6 @@ This project represents my passion for building socially impactful solutions thr
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here if available, e.g. homepage, login page, NGO dashboard, etc.)*
-
----
-
 ## 🚀 Deployment
 
 Currently running on `localhost:8000`. Deployment options on free hosting services like **InfinityFree** or **GitHub Pages (demo)** are being explored.
