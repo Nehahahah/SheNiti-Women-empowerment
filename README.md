@@ -62,7 +62,7 @@ This project represents my passion for building socially impactful solutions thr
 
 ## 🚀 Deployment
 
-Currently running on `localhost:8000`. Deployment options on free hosting services like **InfinityFree** or **GitHub Pages (demo)** are being explored.
+Currently running on `localhost:3000`. Deployment options on free hosting services like **InfinityFree** or **GitHub Pages (demo)** are being explored.
 
 ---
 
