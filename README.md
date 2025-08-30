@@ -35,7 +35,7 @@ This project represents my passion for building socially impactful solutions thr
 
 ## 🛠 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, MDBootstrap (Material Design for Bootstrap v4.8.9)
+- **Frontend**: HTML, CSS, JavaScript, MDBootstrap (
 - **Backend**: PHP 8.0
 - **Database**: MySQL (via phpMyAdmin)
 - **Server**: PHP development server (localhost:8000)
