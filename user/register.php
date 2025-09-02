@@ -3,7 +3,7 @@
   require_once '../core/init.php';
   include('includes/header.php');
 ?>
-
+//user registration 
 <h2 class="text-center">STEP User Registration</h2>
 <div class="container-fluid p-2">
 	<div class="card">
