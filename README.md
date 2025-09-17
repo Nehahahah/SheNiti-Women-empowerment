@@ -1,4 +1,4 @@
-# 🌸 SheNiti – Women Empowerment Portal
+# 🌸 SheNiti – (Women Empowerment Portal)
 
 ### Developed by: Neha Pal  
 📧 11a.neha.pal@gmail.com  
